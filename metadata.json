@@ -1,0 +1,6 @@
+{
+  "name": "Moni GTM Strategy",
+  "description": "An interactive, beautiful Go-To-Market and product marketing strategy deck for Moni Microfinance, built with responsive layout animations, budgets, and A/B test simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
